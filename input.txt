@@ -1,0 +1,2 @@
+This is a sample email content for spam detection test.
+You can add more sample emails in this file, one per line or separated as needed.
